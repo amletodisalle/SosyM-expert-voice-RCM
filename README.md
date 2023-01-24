@@ -1,14 +1,14 @@
-#From low-level programming to full-fledged industrial model-based development: the story of the Rubus Component Model
+# From low-level programming to full-fledged industrial model-based development: the story of the Rubus Component Model
 - Alessio Bucaioni (Mälardalen University, Västerås, Sweden)
 - Federico Ciccozzi (Mälardalen University, Västerås, Sweden)
 - Amleto Di Salle (European University of Rome, Rome, Italy)
 - Mikael Sjödin (Mälardalen University, Västerås, Sweden)
 
-**Abstract**
+## **Abstract**
 Developing distributed real-time systems is a complex task that has historically entailed specialised handcraft. In this paper, we propose a retrospective on the (r)evolutionary changes that led to the transition from low-level programming to industrial full-fledged model-based development embodied by the Rubus Component Model and its underlying tools. We focus on the needs, challenges, and solutions of a 15-year-long evolution of a development approach that has gone from low-level and manual programming to a highly automated environment offering modelling, analysis, and development of vehicular software systems with multi-criticality for deployment on single- and multi-core platforms.
 
-**Research questions (RQs)**
-- RQ1: _ _ Which are the publication trends in research on RCM? _ _
+## **Research questions (RQs)**
+- RQ1: _ _Which are the publication trends in research on RCM?_ _
 - RQ2a: _ _ Which were the main requirements that drove the design and development of RCM? _ _
 - RQ2b: _ _ Which were the main challenges to be tackled for fulfilling the requirements? _ _
 - RQ3a: _ _ Which were the requirements that triggered the evolution of RCM? _ _
