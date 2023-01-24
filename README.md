@@ -20,13 +20,16 @@ We collected the data through the web search engine [Google Scholar](https://sch
 
 _rubus AND component AND model_
 
-We did a full-text search. The RCM was formally defined in 2008 by Häanninen et al.~\cite{HanninenMNLLL08}, but the first hints on RCM date back to 2003. 
+We did a full-text search. The RCM was formally defined in 2008 by Häanninen et al.[1], but the first hints on RCM date back to 2003. 
 For this reason, we carried out our search from 2003 to date (December 15, 2022). 
 
-The initial search gave 265 results. Then, we removed impurities and duplicates; eventually, we applied the following inclusion and exclusion criteria:
+The initial search gave [265 results](google-scholar.csv). Then, we removed impurities and duplicates; eventually, we applied the following inclusion and exclusion criteria:
 - **I1**: Studies written in English
 - **I2**: Studies exploiting the Rubus Component Model 
 - **E1**: Studies with full-text not available
 - **E2**: Studies in the form of tutorial papers, editorials, reports, etc., since they do not carry the type of information that we seek.
 
 At the end of the process, we obtained a set of 171 primary studies.
+
+## References
+[1] Hänninen, K., Mäki-Turja, J., Nolin, M., Lindberg, M., Lundbäck, J., Lundbäck, K.: The rubus component model for resource onstrained real-time systems. In: IEEE Third International Symposium on Industrial Embedded Systems, SIES 2008, Montpellier / La Grande Motte, France, June 11-13, 2008, p. 177–183. IEEE (2008). https://doi.org/10.1109/SIES.2008.4577697
