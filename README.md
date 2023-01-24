@@ -32,4 +32,4 @@ The initial search gave [265 results](google-scholar.csv). Then, we removed impu
 At the end of the process, we obtained a set of 171 primary studies.
 
 ## References
-[1] Hänninen, K., Mäki-Turja, J., Nolin, M., Lindberg, M., Lundbäck, J., Lundbäck, K.: The rubus component model for resource onstrained real-time systems. In: IEEE Third International Symposium on Industrial Embedded Systems, SIES 2008, Montpellier / La Grande Motte, France, June 11-13, 2008, p. 177–183. IEEE (2008). https://doi.org/10.1109/SIES.2008.4577697
+1. Hänninen, K., Mäki-Turja, J., Nolin, M., Lindberg, M., Lundbäck, J., Lundbäck, K.: The rubus component model for resource onstrained real-time systems. In: IEEE Third International Symposium on Industrial Embedded Systems, SIES 2008, Montpellier / La Grande Motte, France, June 11-13, 2008, p. 177–183. IEEE (2008). https://doi.org/10.1109/SIES.2008.4577697
