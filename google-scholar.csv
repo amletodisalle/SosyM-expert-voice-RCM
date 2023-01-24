@@ -1,0 +1,266 @@
+﻿Authors,Title,Publication,Volume,Number,Pages,Year,Publisher
+"Hanninen, Kaj; Maki-Turja, Jukka; Nolin, Mikael; Lindberg, Mats; Lundback, John; Lundback, Kurt-Lennart; ",The Rubus component model for resource constrained real-time systems,2008 International Symposium on Industrial Embedded Systems,,,177-183,2008,IEEE
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; Mubeen, Saad; ",Extending the Rubus component model with GPU-aware components,2016 19th International ACM SIGSOFT Symposium on Component-Based Software Engineering (CBSE),,,59-68,2016,IEEE
+"Bucaioni, Alessio; Cicchetti, Antonio; Ciccozzi, Federico; Mubeen, Saad; Sjödin, Mikael; ",A metamodel for the rubus component model: Extensions for timing and model transformation from EAST-ADL,IEEE Access,5,,9005-9020,2016,IEEE
+"Bureš, Tomáš; Carlson, Jan; Crnkovic, Ivica; Sentilles, Séverine; Vulgarakis, Aneta; ",ProCom–the Progress Component Model Reference Manual,"Mälardalen University, Västerås, Sweden",,,,2008,
+"Bucaioni, Alessio; Mubeen, Saad; Ciccozzi, Federico; Cicchetti, Antonio; Sjödin, Mikael; ",Modelling multi-criticality vehicular software systems: evolution of an industrial component model,Software and Systems Modeling,19,5,1283-1302,2020,Springer
+"Bucaioni, Alessio; Cicchetti, Antonio; Sjödin, Mikael; ",Towards a Metamodel for the Rubus Component Model.,ModComp@ MoDELS,,,46-56,2014,Citeseer
+"Mubeen, Saad; Bud, Harold; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; ",Provisioning of predictable embedded software in the vehicle industry: The rubus approach,2017 IEEE/ACM 4th International Workshop on Software Engineering Research and Industrial Practice (SER&IP),,,3-9,2017,IEEE
+"Hansson, Hans; Åkerholm, Mikael; Crnkovic, Ivica; Torngren, Martin; ",SaveCCM-a component model for safety-critical real-time systems,"Proceedings. 30th Euromicro Conference, 2004.",,,627-635,2004,IEEE
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Extraction of end-to-end timing model from component-based distributed real-time embedded systems,"Embedded Systems Week, Oct. 9-14 2011, Taipei, Taiwan",,,,2011,
+"Mubeen, Saad; Gålnander, Mattias; Bucaioni, Alessio; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Timing verification of component-based vehicle software with rubus-ICE: end-user's experience,2018 IEEE/ACM 1st International Workshop on Software Qualities and their Dependencies (SQUADE),,,37-38,2018,IEEE
+"Bucaioni, Alessio; Mubeen, Saad; Lundbäck, John; Lundbäck, Kurt-Lennart; Mäki-Turja, Jukka; Sjödin, Mikael; ",Demonstrator for modeling and development of component-based distributed real-time systems with rubus-ice,Open Demo Session of Real-Time Systems located at Real Time Systems Symposium (RTSS),,,,2013,
+"Hänninen, Kaj; Mäki-Turja, Jukka; Nolin, Mikael; Lindberg, Mats; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Supporting engineering requirements in the rubus component model,,,,,2008,Citeseer
+"Mubeen, Saad; Maki-Turja, Jukka; Sjodin, Mikael; Carlson, Jan; ",Analyzable modeling of legacy communication in component-based distributed embedded systems,2011 37th EUROMICRO Conference on Software Engineering and Advanced Applications,,,229-238,2011,IEEE
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ","Implementation of holistic response-time analysis in rubus-ICE: preliminary findings, issues and experiences","The 32nd IEEE Real-Time Systems Symposium (RTSS), WIP Session",,,9-12,2011,
+"SJÖDIN, MIKAEL; ",A Metamodel for the Rubus Component Model: Extensions for Timing and Model Transformation From EAST-ADL,,,,,,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Exploring options for modeling of real-time network communication in an industrial component model for distributed embedded systems,Proceedings of the International Conference on Human-centric Computing 2011 and Embedded and Multimedia Computing 2011,,,441-458,2011,Springer
+"Bucaioni, Alessio; Mubeen, Saad; Ciccozzi, Federico; Cicchetti, Antonio; Sjödin, Mikael; ",Technology-preserving transition from single-core to multi-core in modelling vehicular systems,European Conference on Modelling Foundations and Applications,,,285-299,2017,Springer
+"Bucaioni, Alessio; Becker, Matthias; Lundbäck, John; Mackamul, Harald; ",From amalthea to rcm and back: a practical architectural mapping scheme,2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,537-544,2020,IEEE
+"Aybek, Mehmet Onur; Jordao, Rodolfo; Lundbäck, John; Lundbäck, Kurt-Lennart; Becker, Matthias; ",From the Synchronous Data Flow Model of Computation to an Automotive Component Model,2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA),,,1-8,2021,IEEE
+"Hanninen, Kaj; Maki-Turja, Jukka; Sandberg, Staffan; Lundback, John; Lindberg, Mats; Nolin, Mikael; Lundback, Kurt-Lennart; ",Framework for real-time analysis in Rubus-ICE,2008 IEEE International Conference on Emerging Technologies and Factory Automation,,,782-788,2008,IEEE
+"Bucaioni, Alessio; Mubeen, Saad; Lundbäck, Jhon; Lundbäck, Kurt-Lennart; Mäki-Turja, Jukka; Sjödin, Mikael; ",From modeling to deployment of component-based vehicular distributed real-time systems,2014 11th International Conference on Information Technology: New Generations,,,649-654,2014,IEEE
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ","Support for end-to-end response-time and delay analysis in the industrial tool suite: Issues, experiences and a case study",Computer Science and Information Systems,10,1,453-482,2013,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Investigating techniques to model real-time network communication for the industrial component model,Journal of Information,16,7 B,5183-5196,2013,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Communications-oriented development of component-based vehicular distributed real-time embedded systems,Journal of Systems Architecture,60,2,207-220,2014,Elsevier
+"Carlson, Jan; Feljan, Juraj; Mäki-Turja, Jukka; Sjödin, Mikael; ",Deployment modelling and synthesis in a component model for distributed embedded systems,2010 36th EUROMICRO Conference on Software Engineering and Advanced Applications,,,74-82,2010,IEEE
+"Mubeen, Saad; Ashjaei, Mohammad; Nolte, Thomas; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; ",Modeling of end-to-end resource reservations in component-based vehicular embedded systems,2016 42th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,283-292,2016,IEEE
+"Moller, Anders; Akerholm, Mikael; Fredriksson, Johan; Nolin, Mikael; ",Evaluation of component technologies with respect to industrial requirements,"Proceedings. 30th Euromicro Conference, 2004.",,,56-63,2004,IEEE
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",The realization of flexible GPU components in Rubus,Technical Report,,,,2019,Mälardalen University
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Tracing event chains for holistic response-time analysis of component-based distributed real-time systems,ACM SIGBED Review,8,3,48-51,2011,"ACM New York, NY, USA"
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Implementation of end-to-end latency analysis for component-based multi-rate real-time systems in Rubus-ICE,2012 9th IEEE International Workshop on Factory Communication Systems,,,165-168,2012,IEEE
+"Ashjaei, Mohammad; Mubeen, Saad; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; Nolte, Thomas; ",Modeling and Timing Analysis of Ethernet-AVB in Rubus-ICE,,,,,,
+"Mubeen, Saad; Sjödin, Mikael; Mäki-Turja, Jukka; ",Translating Timing Constraints during Vehicular Distributed Embedded Systems Development.,ModComp@ MoDELS,,,57-66,2014,Citeseer
+"Mubeen, Saad; Nolte, Thomas; Sjödin, Mikael; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; ",Modeling of legacy distributed embedded systems at vehicle abstraction level,2016 19th International ACM SIGSOFT Symposium on Component-Based Software Engineering (CBSE),,,7-12,2016,IEEE
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",Allocation optimization for component-based embedded systems with GPUs,2018 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,101-110,2018,IEEE
+"Du, Shaohua; Yu, Dong; Hu, Yi; Huang, Yan; ",A component model and layered system architecture for reconfigurable CNC systems,2009 International Conference on Information and Automation,,,922-927,2009,IEEE
+"Möller, Anders; Åkerholm, Mikael; Fredriksson, Johan; Nolin, Mikael; ",Software component technologies for real-time systems,WiP Proceedings in Real-Time Systems Symposium (RTSS),,,49-51,2003,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Component-based vehicular distributed embedded systems: End-to-end timing models extraction at various abstraction levels,,,,,2014,
+"Aybek, Mehmet Onur; ",Transforming Models of Computation to Automotive Component Models,,,,,2020,
+"Gålnander, Mattias; Lundbäck, Kurt-Lennart; Sjödin, Mikael; ",Provisioning of Deterministic and Non-Deterministic Services for Vehicles: The Rubus Approach,,,,,,
+"Mubeen, Saad; Bucaioni, Alessio; Mäki-Turja, Jukka; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; Sjödin, Mikael; ",Provisioning of Deterministic and Non-Deterministic Services for Vehicles: The Rubus Approach,Workshop CARS 2016-Critical Automotive applications: Robustness & Safety,,,,2016,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Towards translation of timing constraints during vehicular embedded systems development,"International Conference on Component-Based Software Engineering and Software Architecture (CompArch)(Springer, Berlin, 2014)",,,,2014,
+"Kruglyak, Andrey; ",Formal aspects of component-based design of embedded real-time systems,International Symposium on Formal Aspects of Component Software: 14/09/2011-16/09/2011,,,,2011,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Modeling of Legacy Communication in Component-Based Distributed Embedded Systems,,,,,,
+"Lawson Konsult, AB; ",Provisioning of Predictable Embedded Software in the Vehicle Industry: The Rubus Approach,,,,,,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Implementation of holistic response-time analysis in rubus-ice,,,,,2011,
+"Mubeen, Saad; ",Modeling and Timing Analysis of Industrial Component-Based Distributed Real-time Embedded Systems,,,,,2012,Mälardalen University
+"Du, Shaohua; Yu, Dong; ",Research on component technology for reconfigurable cnc system,2009 International Conference on Computational Intelligence and Software Engineering,,,1-6,2009,IEEE
+"Möller, Anders; Åkerholm, Mikael; Fredriksson, Johan; Nolin, Mikael; ",An industrial evaluation of component technologies for embedded-systems,MRTC RePort ISSN,,,1404-3041,2004,Citeseer
+"Bucaioni, Alessio; Becker, Matthias; ",Enabling automated integration of architectural languages: An experience report from the automotive domain,Journal of Systems and Software,184,,111106,2022,Elsevier
+"Bucaioni, Alessio; Ciccozzi, Federico; Cicchetti, Antonio; Mubeen, Saad; Sjödin, Mikael; Gålnander, Mattias; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Demonstrating Development of Software Architecture of Multi-core Real-time Vehicular Systems,,,,,,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Extracting End-to-End Timing Models from Component-Based Distributed Embedded Systems,Embedded Systems Development,,,155-169,2014,Springer
+"Bucaioni, Alessio; ",A Model-driven Development Approach with Temporal Awareness for Vehicular Embedded Systems,,,,,2017,Mälardalen University
+"Ashjaei, Mohammad; Mubeen, Saad; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; Nolte, Thomas; ",Modeling and timing analysis of vehicle functions distributed over switched ethernet,IECON 2017-43rd Annual Conference of the IEEE Industrial Electronics Society,,,8419-8424,2017,IEEE
+"Hänninen, Kaj; Mäki-Turja, Jukka; Sandberg, Staffan; Lundbäck, John; Lindberg, Mats; Nolin, Mikael; Lundbäck, Kurt-Lennart; ",Introducing a plug-in framework for real-time analysis in rubus-ice,ISRN MDH-MRTC-229/2008-1-SE,,,,2008,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Modeling of Legacy Communication in Distributed Embedded Systems,"2nd Workshop on Model Based Engineering for Embedded Systems Design (M-BED 2011), March 18, 2011, Alpexpo-Grenoble, France",,,,2011,
+"Mubeen, Saad; ",Towards Communications-Oriented Development of Component-Based Vehicular Distributed Embedded Systems--a Ph. D. Research Proposal,"19th International Doctoral Symposium on Components and Architecture (WCOP) WCOP 2014, 30 Jun-3 Jul 2014, Lille, France",,,,2014,
+"Lawson, Harold Bud; Lundbäck, Kurt-Lennart; ",Provisioning of Highly Reliable Real-Time Systems,IFIP Conference on History of Nordic Computing,,,323-330,2010,Springer
+"Mubeen, Saad; Ashjaei, Mohammad; Nolte, Thomas; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Integrating response-time analysis for heterogeneous networks with Rubus Analysis Framework: Challenges and preliminary solutions,2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA),,,1-4,2015,IEEE
+"Mubeen, Saad; Maki-Turja, Jukka; Sjodin, Mikael; ",Towards Modeling and Holistic Timing Analysis of Industrial Component-Based DRE Systems,2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems,,,283-292,2012,IEEE
+"Houtan, Bahar; Aybek, Mehmet Onur; Ashjaei, Mohammad; Daneshtalab, Masoud; Sjödin, Mikael; Mubeen, Saad; ",End-to-end Timing Model Extraction from TSN-Aware Distributed Vehicle Software,,,,,,
+"Ritafaria, D; ",Embedded Software Component Technologies for Real time Systems-An Industrial Perspective,,,,,,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",End-to-end Timing Challenges in Seamless Tool Chain Development for Vehicular Embedded Real-Time Systems,Work-in-Progress Session,,,21,2013,
+"Mubeen, Saad; ",Communications-oriented development of component-based vehicular distributed embedded systems: a ph. d. research proposal,Proceedings of the 19th international doctoral symposium on Components and architecture,,,1-6,2014,
+"Campeanu, Gabriel; ",Facilitating Component Reusability in Embedded Systems with GPUs,International Conference on Software Engineering and Formal Methods,,,287-301,2018,Springer
+"Crnkovic, Ivica; Chaudron, Michel; Sentilles, Séverine; Vulgarakis, Aneta; ",A classification framework for component models,Software Engineering Research and Practice in Sweden,,,3,2007,Citeseer
+"Bucaioni, Alessio; ",A Model-based Approach for Vehicular Systems,,,,,2017,"Mälardalen University, MRTC"
+"Mubeen, Saad; Nolte, Thomas; Sjödin, Mikael; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Supporting timing analysis of vehicular embedded systems through the refinement of timing constraints,Software & Systems Modeling,18,1,39-69,2019,Springer
+"Bucaioni, Alessio; Cicchetti, Antonio; Ciccozzi, Federico; Eramo, Romina; Mubeen, Saad; Sjödin, Mikael; ",Anticipating implementation-level timing analysis for driving design-level decisions in east-adl,"International Workshop on Modelling in Automotive Software Engineeringco-located with ACM/IEEE 18th International Conference on Model Driven Engineering Languages and Systems (MODELS 2015), Ottawa, Canada. September 27, 2015",,,63-72,2015,
+"Campeanu, Gabriel; Mubeen, Saad; ",Improving run-time memory utilization of component-based embedded systems with non-critical functionality,ICSEA 2017,,,150,2017,
+"Bucaioni, Alessio; Addazi, Lorenzo; Cicchetti, Antonio; Ciccozzi, Federico; Eramo, Romina; Mubeen, Saad; Sjödin, Mikael; ",Moves: A model-driven methodology for vehicular embedded systems,IEEE Access,6,,6424-6445,2018,IEEE
+"Åkerholm, Mikael; Fredriksson, Johan; ",A sample of component technologies for embedded systems,MRTC Technical Report,,,,2004,
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",A GPU-aware component model extension for heterogeneous embedded systems,The Tenth International Conference on Software Engineering Advances,,,,2015,
+"Díaz, Manuel; Garrido, Daniel; Llopis, Luis; Rus, Francisco; Troya, José M; ",UM-RTCOM: An analyzable component model for real-time distributed systems,Journal of Systems and Software,81,5,709-726,2008,Elsevier
+"Bucaioni, Alessio; Mubeen, Saad; ",Bringing MoVES Towards Consolidated Electrical/Electronic Automotive Architectures,"Work in Progress Session of the Euromicro DSD/SEAA 2019 conference WIP-SEAA, 28 Aug 2019, Chalkidiki, Greece",,,,2019,
+"Lednicki, Luka; ",Support for hardware devices in component models for embedded systems,International Doctoral Symposium on Software Engineering and Advanced Applications,,,,2011,"Oulu, Finland"
+"Bucaioni, Alessio; ",Raising Abstraction of Timing Analysis through Model-Driven Engineering,,,,,2015,Mälardalen University
+"Mubeen, Saad; Bucaioni, Alessio; ",Modeling of vehicular distributed embedded systems: transition from single-core to multi-core,Information Technology-New Generations,,,607-611,2018,Springer
+"Mubeen, Saad; Ashjaei, Mohammad; Sjödin, Mikael; ",Holistic modeling of time sensitive networking in component-based vehicular embedded systems,2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,131-139,2019,IEEE
+"Marin, Cristina; Desertot, Mikael; ",Sensor bean: a component platform for sensor-based services,Proceedings of the 3rd international workshop on Middleware for pervasive and ad-hoc computing,,,1-8,2005,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Translating end-to-end timing requirements to timing analysis model in component-based distributed real-time systems,ACM SIGBED Review,9,4,17-20,2012,"ACM New York, NY, USA"
+"Borde, Etienne; Carlson, Jan; ","Towards verified synthesis of procom, a component model for real-time embedded systems",Proceedings of the 14th international ACM Sigsoft symposium on Component based software engineering,,,129-138,2011,
+"Ashjaei, Mohammad; Khalilzad, Nima; Mubeen, Saad; ","Modeling, designing and analyzing resource reservations in distributed embedded systems",Real-Time Modelling and Processing for Communication Systems,,,203-256,2018,Springer
+"Mubeen, Saad; ",Communications-Oriented Modeling and Development of Vehicular Distributed Embedded Systems,,,,,2014,Mälardalen University
+"Mubeen, Saad; Nolte, Thomas; ",On timing analysis of component-based vehicular distributed embedded systems at various abstraction levels,2016 13th Working IEEE/IFIP Conference on Software Architecture (WICSA),,,277-278,2016,IEEE
+"Bucaioni, Alessio; Lundbäck, John; Pelliccione, Patrizio; Mubeen, Saad; ",Architecting and Analysing Connected Autonomous Vehicles,2020 IEEE International Conference on Software Architecture Companion (ICSA-C),,,5-6,2020,IEEE
+"Yin, Hang; Qin, Hongwan; Carlson, Jan; Hansson, Hans; ",Mode switch handling for the ProCom component model,Proceedings of the 16th International ACM Sigsoft symposium on Component-based software engineering,,,13-22,2013,
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",Optimized Realization of Software Components with Flexible OpenCL Functionality.,ENASE,,,77-88,2018,
+"Crnkovic, Ivica; Sentilles, Séverine; Vulgarakis, Aneta; Chaudron, Michel RV; ",A classification framework for software component models,IEEE Transactions on Software Engineering,37,5,593-615,2010,IEEE
+"Bureš, Tomáš; Carlson, Jan; Sentilles, Séverine; Vulgarakis, Aneta; ",A component model family for vehicular embedded systems,2008 The Third International Conference on Software Engineering Advances,,,437-444,2008,IEEE
+"Bucaioni, Alessio; Mubeen, Saad; Cicchetti, Antonio; Sjödin, Mikael; ",Exploring timing model extractions at east-adl design-level using model transformations,2015 12th International Conference on Information Technology-New Generations,,,595-600,2015,IEEE
+"Mubeen, Saad; Mäki-Turja, Jukka; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; Sjödin, Mikael; Lawson, Bud; ",Academic-industrial Collaboration in the Vehicle Software Domain: Experiences and End-user Perspective,CARS 2016-Critical Automotive applications: Robustness & Safety,,,,2016,
+"Mubeen, Saad; ",Developing predictable embedded systems in the vehicle industry: Results and lessons learned,2019 IEEE International Conference on Industrial Technology (ICIT),,,1063-1065,2019,IEEE
+"Campeanu, Gabriel; Mubeen, Saad; ",Scavenging Run-time Resources to Boost Utilization in Component-based Embedded Systems with GPUs,Intl. J. Adv. Software,11,1,159-169,2018,
+"Möller, Anders; Fröberg, Joakim; Nolin, M; ",What are the needs for components in vehicular systems?-An industrial perspective,proceedings of the WiP session of the 15th Euromicro Conference on Real-Time Systems,,,,2003,
+"Seceleanu, Cristina; Crnkovic, Ivica; ",Component models for reasoning,Computer,46,11,40-47,2013,IEEE
+"Bucaioni, Alessio; Lundbäck, John; Sjödin, Mikael; Mubeen, Saad; ",On Model-Based Development of Embedded Software for Evolving Automotive E/E Architectures,17th International Conference on Information Technology–New Generations (ITNG 2020),,,693-699,2020,Springer
+"No, Assignment; ",Research Planning,,,,,1982,Citeseer
+"Lednicki, Luka; Feljan, Juraj; Carlson, Jan; Zagar, Mario; ",Adding support for hardware devices to component models for embedded systems,Proceedings of the 6th International Conference on Software Engineering Advances,,,149-154,2011,
+"Mubeen, Saad; Sjödin, Mikael; Mäki-Turja, Jukka; ",Supporting early modeling and end-to-end timing analysis of vehicular distributed real-time applications,,,,,2012,Universidad Carlos III de Madrid
+"Bucaioni, Alessio; ",Raising Abstraction in Timing Analysis for Vehicular Embedded Systems through Model-Driven Engineering.,STAF Doctoral Symposium,,,11-20,2015,
+"Feljan, Juraj; ",Research Planning Course Assignment 3 Design-time verification of component-based embedded software systems with respect to extra-functional properties,,,,,2009,Citeseer
+"Bucaioni, Alessio; Cicchetti, Antonio; Ciccozzi, Federico; Mubeen, Saad; Pierantonio, Alfonso; Sjödin, Mikael; ",Towards design-space exploration of component chains in vehicle software,42nd Euromicro Conference series on Software Eneineerina and Advanced Applications.(WiP),,,,2016,
+"Feljan, Juraj; Carlson, Jan; Zagar, Mario; ",Realizing a domain specific component model with javabeans,8th Conference on Software Engineering Research and Practice in Sweden (SERPS 2008),,,,2008,
+"Waters, HL; ",Analysis of a Communications System Using Symbolic Simulation,"The 24th Southeastern Symposium on System Theory and The 3rd Annual Symposium on Communications, Signal Processing Expert Systems, and ASIC VLSI Design",,,"53, 54, 55, 56, 57-53, 54, 55, 56, 57",1992,IEEE Computer Society
+"Ferko, Enxhi; Jasharllari, Igli; Bucaioni, Alessio; Ashjaei, Mohammad; Mubeen, Saad; ",An Evaluation Framework for Modeling Languages Supporting Predictable Vehicular Software Systems,ITNG 2022 19th International Conference on Information Technology-New Generations,,,47-55,2022,Springer
+"Bucaioni, Alessio; Mubeen, Saad; ",Moves meets the real world automotive benchmarks,2020 IEEE International Conference on Industrial Technology (ICIT),,,243-248,2020,IEEE
+"Bouyssounouse, Bruno; Sifakis, Joseph; ",Component models and integration platforms: landscape,Embedded Systems Design,,,160-193,2005,Springer
+"MICLAUS, ANTONIU; PETRESCU, SERBAN; VESCAN, ANDREEA; ",EMBEDDED SYSTEMS WITH COMPONENT-BASED GPU SUPPORT: A STATE OF THE ART,UNIVERSITATIS BABEŞ-BOLYAI INFORMATICA,,,67,,
+"Neto, Luis; Gonçalves, Gil; ",Component models for embedded systems in industrial cyber-physical systems,The International Symposium on Intelligent Manufacturing Environments InManEnv,,,,2018,
+"Mubeen, Saad; Nolte, Thomas; Lundbäck, Kurt-Lennart; ",Developing predictable vehicular distributed embedded systems on multi-core,Information Technology: New Generations,,,1273-1277,2016,Springer
+"MICLĂUŞ, ANTONIU; PETRESCU, ŞERBAN; VESCAN, ANDREEA; ",EMBEDDED SYSTEMS WITH COMPONENT-BASED GPU SUPPORT: A STATE OF THE ART.,"Studia Universitatis Babes-Bolyai, Informatica",64,1,,2019,
+"Bucaioni, Alessio; Dimic, Vlatko; Gålnander, Mattias; Lönn, Henrik; Lundbäck, John; ",Transferring a model-based development methodology to the automotive industry,2021 22nd IEEE International Conference on Industrial Technology (ICIT),1,,762-767,2021,IEEE
+"Hjertström, Andreas; ",Licentiate Proposal INCENSE: Information-Centric Development of Component-Based Embedded Real-Time Systems.,,,,,,Citeseer
+"Mubeen, Saad; Nolte, Thomas; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; ",Refining timing requirements in extended models of legacy vehicular embedded systems using early end-to-end timing analysis,Information Technology: New Generations,,,497-508,2016,Springer
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",Towards extraction of interoperable timing models from component-based vehicular distributed embedded systems,2014 11th International Conference on Information Technology: New Generations,,,655-659,2014,IEEE
+"Campeanu, Gabriel; ",Parallel Execution Optimization of GPU-aware Components in Embedded Systems.,SEKE,,,135-141,2017,
+"Mubeen, Saad; Maki-Turja, Jukka; Sjodin, Mikael; ","Support for holistic response-time analysis in an industrial tool suite: Implementation issues, experiences and a case study",2012 IEEE 19th International Conference and Workshops on Engineering of Computer-Based Systems,,,210-221,2012,IEEE
+"Bucaioni, Alessio; ",Early Timing Analysis of Vehicular Systems: the Road from Single-core to Multi-core.,MoDELS (Doctoral Symposium),,,,2016,
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",Component-based development of embedded systems with GPUs,Journal of Systems and Software,161,,110488,2020,Elsevier
+"Ciccozzi, Federico; Carlson, Jan; Pelliccione, Patrizio; Tivoli, Massimo; ",Editorial to theme issue on model-driven engineering of component-based software systems,Software & Systems Modeling,18,1,7-10,2019,Springer
+"Anjorin, Anthony; Pierantonio, Alfonso; Trujillo, Salvador; Ortiz, Huascar Espinoza; ",Modeling research in recent years: special section on ECMFA 2017 and ECMFA 2018,Software and Systems Modeling,19,5,1055-1056,2020,Springer
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",Developing CPU-GPU embedded systems using platform-agnostic components,2017 43rd Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,176-180,2017,IEEE
+"Mubeen, Saad; Sjödin, Mikael; Mäki-Turja, Jukka; Lundbäck, Kurt-Lennart; Wallin, Peter; ",Automated model translations for vehicular real-time embedded systems with preserved semantics,ACM SIGBED Review,10,2,30-30,2013,"ACM New York, NY, USA"
+"Ahmad, Manzoor; ",A Code Generator for Software Component Services in Smart Devices,,,,,2010,
+"Sundmark, Daniel; Moller, Anders; Nolin, Mikael; ",Monitored software components-a novel software engineering approach,11th Asia-Pacific Software Engineering Conference,,,624-631,2004,IEEE
+"Campeanu, Gabriel; ",GPU-aware Component-based Development for Embedded Systems,,,,,2016,Mälardalen University
+"Inam, Rafia; Mäki-Turja, Jukka; Sjödin, Mikael; Kuncar, Jirı; ",Run-Time Component Integration and Reuse in Cyber-Physical Systems,,,,,2011,Technical Report MRTC report ISSN 1404-3041 ISRN MDH-MRTC-256/2011-1-SE …
+"Breivold, Hongyu Pei; Larsson, Magnus; ",Component-based and service-oriented software engineering: Key concepts and principles,33rd EUROMICRO Conference on Software Engineering and Advanced Applications (EUROMICRO 2007),,,13-20,2007,IEEE
+"Huang, Jing; Zhang, Wei; ",A Reflective Approach to Design Component-Based Distributed Real-Time Applications,International Conference on Applied Informatics and Communication,,,57-65,2011,Springer
+"Yin, Hang; Hansson, Hans; ",Flexible and efficient reuse of multi-mode components for building multi-mode systems,International Conference on Software Reuse,,,237-252,2015,Springer
+"Jonsson, Bengt; ",Component Modelling and Composition,,,,,,
+"Campeanu, Gabriel; Carlson, Jan; Sentilles, Séverine; ",Flexible components for development of embedded systems with GPUs,2017 24th Asia-Pacific Software Engineering Conference (APSEC),,,219-228,2017,IEEE
+"Sentilles, Séverine; Vulgarakis, Aneta; Crnkovic, Ivica; ",A Model-Based Framework for designing Embedded Real-Time Systems,Work-In-Progress Session of the 19th Euromicro Conference on Real-Time Systems (ECRTS 2007),,,69,2007,
+"Wang, Yan; Zhu, Gang; Shi, Jianqi; Huang, Yanhong; Guo, Xin; ",OSAI: A Component-Based Open Software Architecture for Modern Industrial Control Systems,Arabian Journal for Science and Engineering,47,3,3805-3819,2022,Springer
+"Hänninen, Kaj; Lundbäck, John; Lundbäck, Kurt-Lennart; Mäki-Turja, Jukka; Nolin, Mikael; ",Efficient Event-Triggered Tasks in an RTOS.,ESA,,,31-37,2005,
+"Hänninen, Kaj; Lundbäck, John; Lundbäck, Kurt-Lennart; Mäki-Turja, Jukka; Nolin, Mikael; ",Introducing Resource Efficient Event-Triggered Tasks in an RTOS,,,,,,
+"Mubeen, Saad; Gålnander, Mattias; Lundbäck, John; Lundbäck, Kurt-Lennart; ",Extracting timing models from component-based multi-criticality vehicular embedded systems,Information Technology-New Generations,,,709-718,2018,Springer
+"Feljan, Juraj; ",Design-time verification of component-based embedded systems with respect to extra-functional properties,Proceedings of the 16th international workshop on Component-oriented programming,,,41-46,2011,
+"Fernández-Madrigal, Juan-Antonio; Llopis, Luis; Cruz-Martín, Ana; Galindo, Cipriano; González-Jiménez, J; ",H: A component-based specification language for heterogeneous applications,Computer Standards & Interfaces,35,1,30-49,2013,Elsevier
+"Sentilles, Séverine; ",Research Planning Course–Assignment 2,,,,,,Citeseer
+"Hänninen, Kaj; Mäki-Turja, Jukka; ",Component technology in Resource Constrained Embedded Real-Time Systems,Department of Computer Science and Engineering,,,,2004,
+"Hjertström, Andreas; ",INCENSE: Information-Centric Development of Component-Based Embedded Real-Time Systems,,,,,,Citeseer
+"Bucaioni, Alessio; Cicchetti, Antonio; Ciccozzi, Federico; Mubeen, Saad; Pierantonio, Alfonso; Sjödin, Mikael; ",Handling uncertainty in automatically generated implementation models in the automotive domain,2016 42th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,,173-180,2016,IEEE
+"Salman, Shaik Mohammed; Papadopoulos, Alessandro V; Mubeen, Saad; Nolte, Thomas; ",A systematic methodology to migrate complex real-time software systems to multi-core platforms,Journal of Systems Architecture,117,,102087,2021,Elsevier
+"Jasharllari, Igli; ",A comparison framework for the vehicular modeling languages on enabling pre-runtime timing analysis,,,,,2020,
+"Bucaioni, Alessio; ",A-CPS: Automation in High-performance Cyber Physical Systems Development.,STAF (Co-Located Events),,,15-20,2019,
+"Mubeen, Saad; Sjödin, Mikael; Nolte, Thomas; Lundbäck, John; Gålnander, Mattias; Lundbäck, Kurt-Lennart; ",End-to-end timing analysis of black-box models in legacy vehicular distributed embedded systems,2015 IEEE 21st International Conference on Embedded and Real-Time Computing Systems and Applications,,,149-158,2015,IEEE
+"Zadrija, Valentina; ",Component Based Technologies Classification,,,,,,
+"Alam, Muhammad; Dghais, Wael; Chen, Yuanfang; ",Real-Time Modelling and Processing for Communication Systems,,,,,2018,Springer
+"Becker, Matthias; Dasari, Dakshina; Mubeen, Saad; Behnam, Moris; Nolte, Thomas; ",End-to-end timing analysis of cause-effect chains in automotive embedded systems,Journal of Systems Architecture,80,,104-113,2017,Elsevier
+"Hänninen, Kaj; ",Efficient memory utilization in resource constrained real-time systems,,,,,2008,"School of Innovation, Design and Engineering, Mälardalen University"
+"Ashjaei, Mohammad; Bello, Lucia Lo; Daneshtalab, Masoud; Patti, Gaetano; Saponara, Sergio; Mubeen, Saad; ",Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities,Journal of systems architecture,117,,102137,2021,Elsevier
+"Campeanu, Gabriel; ",GPU Support for Component-based Development of Embedded Systems,,,,,2018,Mälardalen University
+"Qureshi, Tahir Naseer; Törngren, Martin; Pessson, Magnus; Chen, De-Jiu; Sjöstedt, Carl-Johan; ",Towards harmonizing multiplearchitecture description languages for real-time embedded systems,Real-time in Sweden,,,,2011,
+"Lednicki, Luka; Crnkovic, Ivica; Zagar, Mario; ",Automatic synthesis of hardware-specific code in component-based embedded systems,"ICSEA 2012, The Seventh International Conference on Software Engineering Advances",,,563-570,2012,
+"Hang, Yin; Hansson, Hans; ",Flexible and efficient reuse of multi-mode components for building multi-mode systems—An extended report,,,,,2014,"Tech. Rep. MDH-MRTC-288/2014-1-SE, Mälardalen University (August 2014)"
+"Mubeen, Saad; Lisova, Elena; Vulgarakis Feljan, Aneta; ",Timing predictability and security in safety-critical industrial cyber-physical systems: A position paper,Applied Sciences,10,9,3125,2020,MDPI
+"Sundmark, Daniel; Möller, Anders; Nolin, Mikael; ",Predictable Assemblies using Monitored Software Components,,,,,,
+"Sánchez-Ledesma, Francisco; Pastor, Juan; Alonso, Diego; Alvarez, Bárbara; ",A Task-Based Concurrency Scheme for Executing Component-Based Applications,Ada User Journal,36,1,,2015,
+"Jonsson, Jonas; ",Porting defensive aid suite to vehicle control system,,,,,2010,
+"Möller, Anders; Åkerholm, Mikael; Fröberg, Joakim; Nolin, Mikael; Larsson, Robert; ",Industrial grading of quality requirements for automotive software component technologies,Embedded Real-Time Systems Implementation Workshop in conjunction with the 26th IEEE International Real-Time Systems Symposium,,,,2005,
+"Thangavel, Gopalakrishnan; ",Visual Studio Add-in for Proxy Object Code Generation,,,,,2013,
+"Yin, Hang; Hansson, Hans; ",Fighting CPS Complexity by Component-Based Software Development of Multi-Mode Systems,Designs,2,4,39,2018,MDPI
+"Mustapic, Goran; Wall, Anders; Norstrom, C; Crnkovic, Ivica; Sandstrom, K; Froberg, J; Andersson, Johan; ",Real world influences on software architecture-interviews with industrial system experts,Proceedings. Fourth Working IEEE/IFIP Conference on Software Architecture (WICSA 2004),,,101-111,2004,IEEE
+"Yin, Hang; ",Introducing Mode Switch in Component-based Software Development,,,,,2015,Mälardalen University
+"Feljan, Juraj; Lednicki, Luka; Maras, Josip; Petricic, A; Crnkovic, I; ",Dices technical report classification and survey of component models,,,,,2009,"Tech. rep., Technical report"
+"Lednicki, Luka; Crnkovic, Ivica; ",Towards automatic synthesis of hardware-specific code in component-based embedded systems,2012 38th Euromicro Conference on Software Engineering and Advanced Applications,,,71-74,2012,IEEE
+"Rehman, Saud Ur; ",A Visual Studio Add-In for Software Component Services in Smart Devices,,,,,2011,
+"Li, Shuai; Rubini, Stéphane; Singhoff, Frank; Bourdelles, Michel; ",Applying holistic schedulability tests to industrial systems: Experience and lessons learned,Proceedings of the 5th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems,200,,,2014,
+"Masrur, Alejandro; Kit, Michał; Matěna, Vladimír; Bureš, Tomáš; Hardt, Wolfram; ",Component-based design of cyber-physical applications with safety-critical requirements,Microprocessors and Microsystems,42,,70-86,2016,Elsevier
+"Andrade, Hugo; ",Investigating software deployment on heterogeneous platforms,2016 13th Working IEEE/IFIP Conference on Software Architecture (WICSA),,,272-276,2016,IEEE
+"Iyenghar, Padma; Huning, Lars; Pulvermueller, Elke; ",Automated End-to-End Timing Analysis of AUTOSAR-based Causal Event Chains.,ENASE,,,477-489,2020,
+"Campeanu, Gabriel; ",Support for high performance using heterogeneous embedded systems: a Ph. D. research proposal,Proceedings of the 18th international doctoral symposium on Components and architecture,,,19-24,2013,
+"Yin, Hang; Hansson, Hans; Orlando, Daniele; Miscia, Francesco; Di Marco, Simone; ",Component-based software development of multi-mode systems—An extended report,,,,,2016,
+"ADVA, S; LE, NCE; ",ual Stud,,,,,,
+"Bucaioni, Alessio; Cicchetti, Antonio; Ciccozzi, Federico; Eramo, Romina; Mubeen, Saad; Sjödin, Mikael; ",Anticipating Implementation Level Timing Analysis for Driving Design Level Decisions in,,,,,,
+"Becker, Matthias; Mubeen, Saad; Behnam, Moris; Nolte, Thomas; ",Extending automotive legacy systems with existing end-to-end timing constraints,Information Technology-New Generations,,,597-605,2018,Springer
+"Hang, Yin; Hansson, Hans; ",Handling multiple mode switch scenarios in component-based multi-mode systems,2013 20th Asia-Pacific Software Engineering Conference (APSEC),1,,404-413,2013,IEEE
+"Ibrahim, Abdelgadir E; Zhao, Liping; Kinghorn, John; ",Embedded systems development: quest for productivity and reliability,Fifth International Conference on Commercial-off-the-Shelf (COTS)-Based Software Systems (ICCBSS'05),,,10 pp.,2006,IEEE
+"Bucaioni, Alessio; ",Boosting the development of high-performance automotive systems,Junior Researcher Community Event at Software Technologies: Applications and Foundations 2019 STAF-JRC19,,,,2019,
+"Hošek, Petr; Pop, Tomáš; Bureš, Tomáš; Hnětynka, Petr; Malohlava, Michal; ",Comparison of component frameworks for real-time embedded systems,International Symposium on Component-Based Software Engineering,,,21-36,2010,Springer
+"Campeanu, Gabriel; Saadatmand, Mehrdad; ",Run-time component allocation in CPU-GPU embedded systems,Proceedings of the Symposium on Applied Computing,,,1259-1265,2017,
+"Wiklander, Jimmie; Eriksson, Johan; Lindgren, Per; ",Utilizing an IDE for component-based design of embedded real-time software for an autonomous car,,,,,2011,Luleå University of Technology
+"Bucaioni, Alessio; Pelliccione, Patrizio; Mubeen, Saad; ",Modeling Centralised Automotive E/E Software Architectures,E Software Architectures,,,,,
+"Dersten, Sara; Froberg, Joakim; Axelsson, Jakob; Land, Rikard; ",Analysis of the business effects of software architecture refactoring in an automotive development organization,2010 36th EUROMICRO Conference on Software Engineering and Advanced Applications,,,269-278,2010,IEEE
+"Bucaioni, Alessio; Mubeen, Saad; Ciccozzi, Federico; Cicchetti, Antonio; Sjödin, Mikael; ",Comparative Evaluation of Timing Model Extraction Methodologies at EAST-ADL Design Level,"2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems",,,1110-1115,2015,IEEE
+"Barkah, Dani; Ermedahl, Andreas; Gustafsson, Jan; Lisper, Björn; Sandberg, Christer; ",Evaluation of automatic flow analysis for WCET calculation on industrial real-time system code,2008 Euromicro Conference on Real-Time Systems,,,331-340,2008,IEEE
+"Wiklander, Jimmie; Kruglyak, Andrey; Nordlander, Johan; Lindgren, Per; ",Personal alarm device: a case study in component-based design of embedded real-time software,Real-Time in Sweden: 13/06/2011-14/06/2011,,,,2011,
+"Martínez, Patricia López; Barros, Laura; Drake, José M; ",Design of component-based real-time applications,Journal of Systems and Software,86,2,449-467,2013,Elsevier
+"Hong, Xiao; Di, Wu; Ling, Zhang; ",SOFTWARE COMPONENT AND PREDICTION FOR NETWORK PROCESSOR BASED APPLICATION,,,,,,
+"Kuncar, Jiri; ",ProCom middleware,,,,,2011,
+"Al-Azzoni, Issam; Iqbal, Saqib; ",Meta-heuristics for solving the software component allocation problem,IEEE Access,8,,153067-153076,2020,IEEE
+"Haddad, Hisham M; Xie, Ying; ",Wrapper-based framework for domain-specific software reuse,Journal of information science and engineering,22,2,269,2006,INSTITUTE OF INFORMATION SCIENCE ACADEMIA SINICA
+"Inam, Rafia; Carlson, Jan; Sjödin, Mikael; Kunčar, Jiří; ",Predictable integration and reuse of executable real-time components,Journal of Systems and Software,91,,147-162,2014,Elsevier
+"Hang, Yin; Hansson, Hans; ",Handling emergency mode switch for component-based systems,2014 21st Asia-Pacific Software Engineering Conference,1,,151-158,2014,IEEE
+"Campeanu, Gabriel; Saadatmand, Mehrdad; ",A Two-Layer Component-Based Allocation for Embedded Systems with GPUs,Designs,3,1,6,2019,MDPI
+"Zivojevic, Vildan; ",Towards time predictable and eﬃcient cache management in multi-threaded systems,,,,,2020,
+"Heinzemann, Christian; Becker, Steffen; ",Comparison of the MechatronicUML Component Models,,,,,,
+"Driven, Time; ",Automatic Train Control,,,,,2010,
+"Bello, Lucia Lo; Mariani, Riccardo; Mubeen, Saad; Saponara, Sergio; ",Recent advances and trends in on-board embedded and networked automotive systems,IEEE Transactions on Industrial Informatics,15,2,1038-1051,2018,IEEE
+"Iyenghar, Padma; Huning, Lars; Pulvermueller, Elke; ",Model-Based Timing Analysis of Automotive Use Case Developed in UML,International Conference on Evaluation of Novel Approaches to Software Engineering,,,360-385,2021,Springer
+"Mubeen, Saad; Lisova, Elena; Feljan, Aneta Vulgarakis; ",A perspective on ensuring predictability in time-critical and secure cooperative cyber physical systems,2019 IEEE International Conference on Industrial Technology (ICIT),,,1379-1384,2019,IEEE
+"Kunčar, Jiří; ",ProCom middleware,,,,,2013,"Univerzita Karlova, Matematicko-fyzikální fakulta"
+"Åkerholm, Mikael; Sandström, Kristian; Fredriksson, Johan; ",Interference control for integration of vehicular software components,Technical Report,,,,2004,
+"Åkerholm, Mikael; ",A software component technology for vehicle control systems,,,,,2005,Mälardalen University
+"Wiklander, Jimmie; ",Component-based software design of embedded real-time systems,,,,,2009,Luleå tekniska universitet
+"Fredriksson, Johan; ",Transformation of component models to real-time models,,,,,2005,"Technical report, Technology Licentiate Thesis"
+"Törngren, Martin; Larses, Ola; Sandström, Kristian; Fredriksson, Johan; Fröberg, Joakim; Norström, Christer; Åkerholm, Mikael; ",Vehicular Embedded Control Systems,,,,,,
+"Fredriksson, Johan; ",Achieve consistent mappings between component models and real-time models,,,,,2005,Citeseer
+"Panunzio, Marco; ","Definition, realization and evaluation of a software reference architecture for use in space applications",,,,,2011,alma
+"Monot, Aurelien; Oriol, Manuel; Schneider, Camille; Wahler, Michael; ","Modern software architecture for embedded real-time devices: High value, little overhead",2016 13th Working IEEE/IFIP Conference on Software Architecture (WICSA),,,201-210,2016,IEEE
+"Eddine, TOUAHRIA Imad; ",Design and Implementation of Real-Time Applications Based on Component Models,,,,,2022,Ministry of Higher Education
+"Iyer, Shankar Vanchesan; ",REAL-TIME CHALLENGES OF VEHICULAR EMBEDDED SYSTEMS ON MULTI-CORE-A MAPPING STUDY,,,,,2017,
+"Bondarau, Yahor; ",Design-time performance analysis of component-based real-time systems,,,,,2009,"PhD thesis, Technische Universiteit Eindhoven"
+"Korra, Sampath; Vasumathi, D; Vinayababu, A; ",A Framework for Software Component Reusability Analysis using Flexible Software Components Extraction,,,,,,
+"Pop, Tomáš; Hnětynka, Petr; Hošek, Petr; Malohlava, Michal; Bureš, Tomáš; ",Comparison of component frameworks for real-time embedded systems,Knowledge and Information Systems,40,1,127-170,2014,Springer
+"Åkerholm, Mikael; ",Reusability of Software Components in Vehicular Applications,,,,,2008,PhD Thesis
+"Becker, Matthias; Mubeen, Saad; ",Timing Analysis Driven Design-Space Exploration of Cause-Effect Chains in Automotive Systems,IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society,,,4090-4095,2018,IEEE
+"Morelli, Matteo; Cremona, Fabio; Di Natale, Marco; ",A system-level framework for the evaluation of the performance cost of scheduling and communication delays in control systems,5th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems,,,13,2014,
+"Heinzemann, Christian; Becker, Steffen; Volk, Andreas; ",Transactional execution of hierarchical reconfigurations in cyber-physical systems,Software & Systems Modeling,18,1,157-189,2019,Springer
+"Thramboulidis, Kleanthis C; Doukas, G; Koumoutsos, G; ",A SOA-based embedded systems development environment for industrial automation,EURASIP Journal on Embedded Systems,2008,,1-15,2007,Springer
+"Marielle, Gallardo; Sweta, Chakraborty; ",DECISION-MAKING FOR AUTONOMOUS CONSTRUCTION VEHICLES,,,,,2019,
+"Ciccozzi, Federico; Tivoli, Massimo; Carlson, Jan; ",1st International Workshop on Model-Driven Engineering for Component-Based Software Systems (ModComp) 2014 Workshop Proceedings,,,,,2014,Citeseer
+"Iyenghar, Padma; ",Systematic Synthesis of Energy-Aware Timing Models in Automotive Software Systems,International Conference on Model-Driven Engineering and Software Development,,,49-73,2021,Springer
+"Di Natale, M; Bambagini, M; Morelli, M; Passaro, A; Di Stefano, D; Arturi, G; ",Enabling model-based development of distributed embedded systems on open source and free tools,WATERS workshop at Euromicro ECRTS,,,,2012,
+"Anbarasu, Aravindan; ",Timing Verification of Application Software in Multi-Core Systems,,,,,2019,
+"Morelli, Matteo; Di Natale, Marco; ",An MDE approach for the design of platform-aware controls in performance-sensitive applications,Proceedings of the 2014 IEEE Emerging Technology and Factory Automation (ETFA),,,1-8,2014,IEEE
+"Avasthi, Vijay; ",Study of component based software engineering approach from a domain perspective,,,,,2012,"College of Engineering, University of Petroleum & Energy Studies"
+"Salman, Shaik Mohammed; Papadopoulos, Alessandro Vittorio; Mubeen, Saad; Nolte, Thomas; ",A systematic migration methodology for complex real-time software systems,2020 IEEE 23rd International Symposium on Real-Time Distributed Computing (ISORC),,,192-200,2020,IEEE
+"Hänninen, Kaj; ",Introducing a Memory Efficient Execution Model in a Tool-Suite for Real-Time Systems,,,,,2006,"Department of Computer Science and Electronics, Mälardalen University"
+"Vidović, Tin; Hasanagić, Lamija; ",TIGHTER INTER-CORE DELAYS IN MULTI-CORE EMBEDDED SYSTEMS UNDER PARTITIONED SCHEDULING,,,,,2020,
+"Hang, Yin; Hansson, Hans; ","Handling emergency mode switch for componentbased systems—an extended report,”","Mälardalen University, Tech. Rep. MDH-MRTC-283/2014–1-SE",,,,2014,
+"Štěpán, Petr; ",An extensible attribute framework for ProCom,,,,,2009,"Univerzita Karlova, Matematicko-fyzikální fakulta"
+"Nolte, Mikael Sjödin; Sundmark, Daniel; ",System-Level Design and Verification,Embedded Systems Handbook: Embedded Systems Design and Verification,,,,2018,CRC Press
+"Benveniste, Albert; ",Real-Time Components,,,,,,
+"Schlatow, Johannes; ",Enabling in-field integration in critical embedded systems,,,,,2021,"Dissertation, Braunschweig, Technische Universität Braunschweig, 2021"
+"Sundharam, Sakthivel Manikandan; Iyenghar, Padma; Pulvermueller, Elke; ",Software Architecture Modeling of AUTOSAR-Based Multi-Core Mixed-Critical Electric Powertrain Controller,Modelling,2,4,706-727,2021,MDPI
+"Jonsson, Bengt; ",Real-Time Components,,,,,,
+"Dannmann, Kathrin; ",Synthesizing Real-Time Components to Run-Time Tasks,"Master's Thesis, University of Oldenburg",,,,2009,
+"Mubeen, Saad; Marković, Filip; Mentor, Industry; Wall, Anders; ",Integrating Elastic Real-Time Applications on Fog Computing Platforms,,,,,,
+"Iyenghar, Padma; Huning, Lars; Pulvermueller, Elke; ",Early Synthesis of Timing Models in AUTOSAR-based Automotive Embedded Software Systems.,MODELSWARD,,,26-38,2020,
+"Mubeen, Saad; Mäki-Turja, Jukka; Sjödin, Mikael; ",MPS-CAN analyzer: Integrated implementation of response-time analyses for Controller Area Network,Journal of Systems architecture,60,10,828-841,2014,Elsevier
+"Quadri, Imran Rafiq; ",MARTE based model driven design methodology for targeting dynamically reconfigurable FPGA based SoCs,,,,,2010,Université des Sciences et Technologie de Lille-Lille I
+"Mubeen, Saad; Ashjaei, Mohammad; Behnam, Moris; Nolte, Thomas; ",Integrating Response-Time Analyses for Heterogeneous Automotive Networks in MPS-CAN Analyzer,"6th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems WATERS 2015, 7 Jul 2015, Lund, Sweden",,,,2015,
+"Gharbi, Atef; Gharsellaoui, Hamza; Khalgui, Mohamed; Ahmed, Samir Ben; ",Functional safety of distributed embedded control systems,Handbook of Research on Industrial Informatics and Manufacturing Intelligence: Innovations and Solutions,,,132-170,2012,IGI Global
+"Di Natale, Marco; Morelli, Matteo; Cremona, Fabio; ",Matching execution architecture models with functional models to analyze the time performance of CPS systems,2015 international conference on complex systems engineering (ICCSE),,,1-6,2015,IEEE
+"Ribeiro, Fabíola Gonçalves Coelho; ",Multi-formalism in different levels of abstraction for requirements engineering and architectural design of real-time embedded systems,,,,,2019,Universidade Federal de Uberlândia
+"Riegler, Michael; Sametinger, Johannes; ",Mode switching from a security perspective: first findings of a systematic literature review,International Conference on Database and Expert Systems Applications,,,63-73,2020,Springer
+"Fatehah, Murni; Mezhuyev, Vitaliy; Al-Emran, Mostafa; ",A systematic review of metamodelling in software engineering,Recent Advances in Intelligent Systems and Smart Applications,,,3-27,2021,Springer
+"Krawczyk, Lukas; Bazzal, Mahmoud; Mackamul, Harald; Weber, Raphael; Wolff, Carsten; ",Complex event models for automotive embedded systems,Journal of Systems Architecture,123,,102343,2022,Elsevier
+"Ribeiro, M Sc Fabíola Gonçalves Coelho; ",Doctor in Natural Sciences (Dr. rer. nat.),,,,,,
+"Jamont, Jean-Paul; Occello, Michel; ",Meeting the challenges of decentralized embedded applications using multi-agent systems,International Journal of Agent Oriented Software Engineering,5,1,22-67,2015,
+"Jamont, Jean-Paul; Occello, Michel; ",Meeting the challenges of decentralized cooperative applications using multiagent systems,,,,,,
+"into Models, Reverse Architecting; ",CBSE 2016,,,,,,
+"Mustapic, Goran; ",Architecting Software for Complex Embedded Systems: Quality Attribute Based Approach to Openness,,,,,2004,Mälardalen University
+"Morelli, Matteo; ",A System-Level Framework for the Design of Complex Cyber-Physical Systems from Synchronous-Reactive Models,,,,,,
+"Ericsson, Niclas; Åkerberg, Johan; Björkman, Mats; Lennvall, Tomas; Larsson, Stig; Pei-Breivold, Hongyu; ",Improving Code Reuse between Industrial Embedded Systems and Discrete Event Simulators,2021 IEEE 19th International Conference on Industrial Informatics (INDIN),,,1-6,2021,IEEE
+"Sanchez, Francisco; Pinho, Luis Miguel; Alonso, Diego; Pastor, Juan; ",Desarrollo de aplicaciones con requisitos de criticidad temporal mixta utilizando C-Forge,4th Spanish Symposium of Real-Time Systems,,,,2013,
+"Li, Yongzhe; Song, Yu; Horváth, Imre; Opiyo, Eliab Z; Zhang, Guangjun; ",Development of a framework for information acquisition and processing in cyber-physical systems,"Proceedings of the 10th international symposium on tools and methods of competitive engineering TMCE 2014, Budapest, Hungary, May 19-23, 2014.",,,,2014,Citeseer
+"Pinto, Manuel; Rodrigues, Ricardo; Machado, Rui; Melo, Miguel; Barbosa, Luís; Bessa, Maximino; ",Pioneering Digital Twin for Virtual Reality Training Platforms: a case study for heavy machinery operators in immersive environments,Available at SSRN 4166482,,,,,
+"Ericsson, Niclas; Åkerberg, Johan; Björkman, Mats; Lennvall, Tomas; Larsson, Stig; Pei-Breivold, Hongyu; ",Exploring ways to improve reuse between Industrial Embedded Systems and Discrete Event Simulators,2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA),,,1-4,2021,IEEE
+"Svensson, Roland; Andersson, Per; Nyström, Per; Öman, Viktor; ","MER14, MDH: s Evaluation for improved Research quality: Research evaluation conducted at Mälardalen University in 2013-14",,,,,2014,Mälardalens högskola
+"Grueso, Milton Javier Sanchez; Alegría, Julio Ariel Hurtado; ",Un lenguaje de modelado para representar visualmente las decisiones de diseño arquitectónico y su rationale: Rationale,Informador Técnico,84,2,155-174,2020,
+"Sánchez-Grueso, Milton; Hurtado-Alegría, Julio; ",Un lenguaje de modelado para representar visualmente las decisiones de diseño arquitectónico y su rationale,Informador Técnico,84,2,1-32,2020,SENA-ASTIN
+"Chen, Yong; ",A survey on industrial information integration 2016–2019,Journal of Industrial Integration and Management,5,01,33-163,2020,World Scientific
